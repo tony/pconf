@@ -34,3 +34,13 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+.env
+.env3
+
+cihai/data/*
+
+doc/_build
+
+.ropeproject
+.idea

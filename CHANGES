@@ -1,0 +1,22 @@
+=========
+Changelog
+=========
+
+Here you can find the recent changes to pconf.
+
+.. changelog::
+    :version: dev
+    :released: Ongoing
+
+    .. change::
+        :tags:  docs
+
+      addded.
+
+    .. change::
+        :tags: project
+
+      Born.
+
+
+.. todo:: vim: set filetype=rst:
