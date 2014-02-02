@@ -1,5 +1,5 @@
-.. image:: https://travis-ci.org/cihai/pconf.png?branch=master
-    :target: https://travis-ci.org/cihai/pconf
+.. image:: https://travis-ci.org/tony/pconf.png?branch=master
+    :target: https://travis-ci.org/tony/pconf
 
 .. image:: https://badge.fury.io/py/pconf.png
     :target: http://badge.fury.io/py/pconf
